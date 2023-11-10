@@ -1,2 +1,2 @@
 # todolist-project
-This is my first app with Java
+This is my first app with Python
