@@ -46,7 +46,8 @@ options = {
 #main program loop
 while True:
 	clear_screen()
-
+	
+	print("Welcome to TO-DO LIST!")
 	print("\nOptions:")
 	print("1. Display to-do list")
 	print("2. Add a task")
