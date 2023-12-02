@@ -48,6 +48,7 @@ while True:
 	clear_screen()
 	
 	print("Welcome to TO-DO LIST!")
+	print("Please, chooese an option")
 	print("\nOptions:")
 	print("1. Display to-do list")
 	print("2. Add a task")
